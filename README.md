@@ -1,3 +1,5 @@
+# CodeSphere 
+AI-Powered voice mentor for personalised learning and placement assistance
 <img width="926" height="431" alt="image" src="https://github.com/user-attachments/assets/0a5d07bd-5645-409d-97d5-223f23eae87e" />
 <img width="347" height="434" alt="image" src="https://github.com/user-attachments/assets/071d13be-6336-49d4-9797-43bb542bd248" />
 <img width="338" height="444" alt="image" src="https://github.com/user-attachments/assets/af031c4f-b35f-4748-b963-920a049650bf" />
