@@ -8,3 +8,4 @@ AI-Powered voice mentor for personalised learning and placement assistance
 <img width="956" height="398" alt="image" src="https://github.com/user-attachments/assets/cf6b8d1b-baac-4c1a-8678-78c01c66b9b9" />
 <img width="931" height="413" alt="image" src="https://github.com/user-attachments/assets/86c7a453-46f5-4316-b186-7bd8258d5dbc" />
 <img width="920" height="431" alt="image" src="https://github.com/user-attachments/assets/10e361b3-f5eb-4541-8df4-7beb09e966b0" />
+<img width="1600" height="765" alt="admin" src="https://github.com/user-attachments/assets/34ad9577-a19e-4f57-bcf3-4ba5bfb162e1" />
